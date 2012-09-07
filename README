@@ -1,0 +1,3 @@
+Provides a session store for use with wai-session.
+
+See example/Main.hs in git for example usage.
