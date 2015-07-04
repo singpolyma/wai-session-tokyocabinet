@@ -31,7 +31,7 @@ library
                 transformers,
                 cereal,
                 tokyocabinet-haskell,
-                errors,
+                errors < 2.0,
                 wai-session
 
 source-repository head
